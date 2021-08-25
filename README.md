@@ -1,5 +1,5 @@
-#  Easyinmind 🐢
+#  dby
 
-## 🦍 Welcome to my GitHub 🦧
+##Welcome to my GitHub
 
 ### The sky is the limit.

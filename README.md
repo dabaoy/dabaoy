@@ -1,4 +1,4 @@
-#  dby
+#  Easyinmind
 
 ## Welcome to my GitHub
 
